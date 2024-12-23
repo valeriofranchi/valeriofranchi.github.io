@@ -1,4 +1,4 @@
-# A web page about robotics 
+# Valerio's Robotics Blog 
 
 ## About me 
 
